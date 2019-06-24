@@ -1,2 +1,0 @@
-# korobova.github.io
-вёрстка
